@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 Hi, I'm Sameer Bhardwaj
 
-<!--
-**Sameer18708/Sameer18708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year B.Tech ECE Student  
+🏫 Ajay Kumar Garg Engineering College (AKGEC), Ghaziabad  
 
-Here are some ideas to get you started:
+### 🔧 Core Skills
+- Digital Electronics
+- Analog Electronics
+- Signals & Systems
+- Network Theory
+- Verilog HDL
+- Xilinx ISE (Schematic & HDL)
+- Arduino (Basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tools
+- Xilinx ISE
+- NI LabVIEW
+- NI Multisim
+- LTspice
+- Tanner EDA
+- MATLAB (Basics)
+
+### 📌 Interests
+- Embedded Systems
+- VLSI & Digital Design
+- Core Electronics Projects
+
+### 📫 Contact
+- LinkedIn: www.linkedin.com/in/sameer-bhardwaj-288180314
+- Email: sameerbhardwaj054@gmail.com
